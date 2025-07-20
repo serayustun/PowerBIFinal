@@ -20,7 +20,7 @@ Amaç, Eti markası müşterilerinin demografik ve satın alma davranışların�
 ![Özet Sayfası](screenshots/özet.png)  
 
 ### Müşteri Perspektifi  
-![Müşteri Perspektifi Sayfası](screenshots/muüşteri.png)  
+![Müşteri Perspektifi Sayfası](screenshots/müşteri.png)  
 
 ### Kategori Perspektifi  
 ![Kategori Perspektifi Sayfası](screenshots/kategori.png)  
