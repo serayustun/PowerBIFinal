@@ -49,7 +49,7 @@ Projede aşağıdaki veri tabloları kullanılmıştır:
   - Veri tipleri ve formatlar kontrol edildi, tarih sütunu çoğaltıldı.
 
 - **Bölgeler:**  
-  - Harici kaynaklardan (Python ile) şehir ve bölge bilgileri çekildi.  
+  - Harici kaynaklardan şehir ve bölge bilgileri çekildi.  
   - Şehir sütunu büyük harfe dönüştürüldü ve model ile ilişkilendirildi.
 
 ---
